@@ -2,7 +2,7 @@
 
 # Define your information
 name = "Zach Som"
-role = "New Member"
+role = "Corner PCP"
 favorite_language = "C++"
 
 # Print the information
