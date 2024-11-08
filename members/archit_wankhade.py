@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 # Define your information
-name = "Zach Som"
-role = "Corner PCP"
-favorite_language = "C++"
+name = "Archit Wankhade"
+role = "New Member"
+favorite_language = "CSS"
 
 # Print the information
 print("--- New Member Information ---")
