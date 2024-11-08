@@ -1,5 +1,5 @@
 name = "Ritesh Kasamsetty"
-role = "data vis member"
+role = "Data Visualization Frontend"
 favorite_language = "python"
 
 print("--- New Member Information ---")
